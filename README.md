@@ -1,0 +1,1 @@
+# demokrasim-static
